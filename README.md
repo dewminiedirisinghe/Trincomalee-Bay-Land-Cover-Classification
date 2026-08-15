@@ -9,7 +9,6 @@ This study evaluates the accuracy of **Supervised Land Cover Classification** us
 
 * **Author:** E.A.D.C. Edirisinghe [cite: 1]
 * **Institution:** Department of Geography, University of Peradeniya[cite: 1]
-* **Course:** GIS-3005: Remote Sensing[cite: 1]
 
 ---
 
